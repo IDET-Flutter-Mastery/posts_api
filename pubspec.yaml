@@ -1,0 +1,25 @@
+name: rest_api_lab
+description: "Live-coding starter — REST API Integration (http, dio, interceptors, MockAPI, network layer)."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  # CP1 — the plain http package
+  http: ^1.2.0
+  # CP2+ — dio, for interceptors and the reusable network layer
+  dio: ^5.4.0
+  google_fonts: ^8.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
