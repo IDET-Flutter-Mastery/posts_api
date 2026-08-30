@@ -20,9 +20,8 @@ server, so **do the Setup section before CP1**.
 -->
 
 | Home menu | Posts Feed |
-|---|---|
-| ![Home menu screen](docs/screenshots/home_menu_screen.png) | ![Posts feed screen](docs/screenshots/posts_list_screen.png) |
-
+| :---: | :---: |
+| <img width="494" height="941" alt="home_menu" src="https://github.com/user-attachments/assets/f67c66aa-db94-4679-a8df-e3a45bed690a" /> | <img width="494" height="937" alt="post_feed" src="https://github.com/user-attachments/assets/470b1dac-5f04-4924-8785-9fb91caf13b7" /> |
 ---
 
 ## Before you start
